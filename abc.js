@@ -1,1 +1,1 @@
-alert("nono");
+alert("Welcome buddy !");
