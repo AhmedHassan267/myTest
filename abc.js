@@ -1,1 +1,1 @@
-alert("Welcome to my page");
+alert("Exodia");
