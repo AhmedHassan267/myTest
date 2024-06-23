@@ -1,1 +1,1 @@
-alert("Welc");
+console.log("Script loaded!");
